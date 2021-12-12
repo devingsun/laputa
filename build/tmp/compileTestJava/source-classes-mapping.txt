@@ -1,0 +1,10 @@
+com/devingsun/castle/springboot/web/IndexControllerTest.java
+ com.devingsun.castle.springboot.web.IndexControllerTest
+com/devingsun/castle/springboot/domain/posts/PostRepositoryTest.java
+ com.devingsun.castle.springboot.domain.posts.PostRepositoryTest
+com/devingsun/castle/springboot/web/dto/HelloResponseDtoTest.java
+ com.devingsun.castle.springboot.web.dto.HelloResponseDtoTest
+com/devingsun/castle/springboot/web/PostsApiControllerTest.java
+ com.devingsun.castle.springboot.web.PostsApiControllerTest
+com/devingsun/castle/springboot/web/HelloControllerTest.java
+ com.devingsun.castle.springboot.web.HelloControllerTest
